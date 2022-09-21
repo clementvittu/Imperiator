@@ -12,7 +12,10 @@ I've been learning web development for 5 years and I'm currently working on back
 *   🚀  I'm currently working on [Welcomer Bot](http://welcomer.tk)
 *   🧠  I'm learning Next.js
 *   🤝  I'm open to collaborating on NodeJs backend and React frontend
-*   ⚡  You can find me on fiverr at https://www.fiverr.com/s2/fdce9f7dd8### Skills<p align="left">
+*   ⚡  You can find me on fiverr at https://www.fiverr.com/s2/fdce9f7dd8
+
+### Skills
+<p align="left">
                                 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
                                 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
