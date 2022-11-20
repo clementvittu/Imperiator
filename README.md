@@ -7,8 +7,8 @@ Web developer working with NodeJS
 I've been learning web development for 5 years and I'm currently working on backend techs with NodeJS and other nice features, I love JS and Backend ! But I also know a lot about frontend, I work with React.
 
 *   🌍  I'm based in Lille
-*   🖥️  See my portfolio at [My Portfolio](http://imperiator.tk)
-*   ✉️  You can contact me at [clement07052005@gmail.com](mailto:clement07052005@gmail.com)
+*   🖥️  See my portfolio at [this link](http://imperiator.tk)
+*   ✉️  You can contact me at [clement@imperiator.tk](mailto:clement@imperiator.tk)
 *   🚀  I'm currently working on [Welcomer Bot](http://welcomer.tk)
 *   🧠  I'm learning Next.js
 *   🤝  I'm open to collaborating on NodeJs backend and React frontend
